@@ -1,0 +1,2245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-10-28 14:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+    <company>30294198</company>
+    <merchantid>30294198</merchantid>
+    <offers>
+        <offer sku="143199181_617399173">
+            <model>Bella Mebel ножка для дивана, для комода, для тумбы металл, 15 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="20.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="20.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">2500</cityprice>
+                <cityprice cityId="515230100">2500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143255060_065964775">
+            <model>OCEAN ножка для комода, для тумбы, для пуфа металл, 18 см</model>
+            <brand>ocean-tehnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">2500</cityprice>
+                <cityprice cityId="515230100">2500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="154946637_738312967">
+            <model>Портативная колонка DBL DM-3802 черный</model>
+            <brand>dbl</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="31.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="31.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">34990</cityprice>
+                <cityprice cityId="511010000">34990</cityprice>
+                <cityprice cityId="515230100">34990</cityprice>
+                <cityprice cityId="311010000">34990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="142767872_016857650">
+            <model>Bella Mebel ножка для дивана, для комода, для тумбы металл, 15 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="69.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">2600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148645728_884696174">
+            <model>Crossleader CROSSLEADER DW02 185/65 R14 90 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">18890</cityprice>
+                <cityprice cityId="515230100">18890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173140640_234798466">
+            <model>Холодильная витрина PLNF-1200Z черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="31.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="31.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">318490</cityprice>
+                <cityprice cityId="515230100">318490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140081934_270290263">
+            <model>Морозильник Platinium PLSD-570 445 л белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">266490</cityprice>
+                <cityprice cityId="511010000">266490</cityprice>
+                <cityprice cityId="515230100">266490</cityprice>
+                <cityprice cityId="311010000">266490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="172547880_089389703">
+            <model>Холодильник Rebus RS-670 черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="50.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="50.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">253490</cityprice>
+                <cityprice cityId="511010000">253490</cityprice>
+                <cityprice cityId="515230100">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="170941466_051143874">
+            <model>Холодильник Platinium PLNF1275AC черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">383490</cityprice>
+                <cityprice cityId="515230100">383490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115294216_595976089">
+            <model>Масляный радиатор Rebus ROH-11 W белый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">24090</cityprice>
+                <cityprice cityId="515230100">24090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147663193_425113402">
+            <model>Пылесос IDEAL VC-2000 темно‑серый</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="41.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="41.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="6.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37090</cityprice>
+                <cityprice cityId="511010000">37090</cityprice>
+                <cityprice cityId="515230100">37090</cityprice>
+                <cityprice cityId="311010000">37090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122799218_693863839">
+            <model>Стиральная машина IDEAL ID-75О "Камушки 7.5 кг белый</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173263414_422683507">
+            <model>Холодильная витрина Platinium PLNF-620Z черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="85.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="85.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">279490</cityprice>
+                <cityprice cityId="515230100">279490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147802548_050384270">
+            <model>Электрическая варочная поверхность Rebus RBE-TIC301 черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60490</cityprice>
+                <cityprice cityId="511010000">60490</cityprice>
+                <cityprice cityId="515230100">60490</cityprice>
+                <cityprice cityId="311010000">60490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173263368_316694029">
+            <model>Морозильник Platinium PLHL-400S 318 л серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="61.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="61.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">194990</cityprice>
+                <cityprice cityId="511010000">194990</cityprice>
+                <cityprice cityId="515230100">194990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133052680_015750655">
+            <model>Вытяжка Rebus RID-TR-975S серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="311010000">77390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="113338313_870545839">
+            <model>IDEAL VC-2000 красный</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">37090</cityprice>
+                <cityprice cityId="515230100">37090</cityprice>
+                <cityprice cityId="311010000">37090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118481682_378498803">
+            <model>Матрас Bella Mebel Zara, 80x200x18 см, чехол жаккард</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">33790</cityprice>
+                <cityprice cityId="515230100">33790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132844593_004522173">
+            <model>Холодильник Rebus RFAU-375GXBL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140494976_208138932">
+            <model>Матрас Diamond LOTUS, 160x200x22 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="10.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">63690</cityprice>
+                <cityprice cityId="511010000">63690</cityprice>
+                <cityprice cityId="515230100">63690</cityprice>
+                <cityprice cityId="311010000">63690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173104911_834718551">
+            <model>Холодильная витрина Rebus RS-1270 черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="76.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="76.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">383490</cityprice>
+                <cityprice cityId="515230100">383490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173015823_964218813">
+            <model>Холодильник Platinium PLSC-320F черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="94.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="94.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">162490</cityprice>
+                <cityprice cityId="515230100">162490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173104785_597548889">
+            <model>Холодильная витрина Platinium LX600LK белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="102.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="102.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">162490</cityprice>
+                <cityprice cityId="515230100">162490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173869535_688303623">
+            <model>Холодильная витрина Platinium PLSC-660F черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">357490</cityprice>
+                <cityprice cityId="515230100">357490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132145824_644674366">
+            <model>Холодильник Rebus RFAU-550DGNFO серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">266490</cityprice>
+                <cityprice cityId="511010000">266490</cityprice>
+                <cityprice cityId="515230100">266490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="163412416_381231653">
+            <model>Настольная электропечь IDEAL LUX 4510 черный</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="158991645_688429491">
+            <model>Кухонная плита Platinium PLMHB 8003 серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">146290</cityprice>
+                <cityprice cityId="511010000">146290</cityprice>
+                <cityprice cityId="515230100">146290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150060290_440651126">
+            <model>Духовой шкаф Rebus CV4005S серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">105990</cityprice>
+                <cityprice cityId="511010000">105990</cityprice>
+                <cityprice cityId="515230100">105990</cityprice>
+                <cityprice cityId="311010000">105990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131726427_222744165">
+            <model>Водонагреватель проточный Platinium PLM-3614DISG серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="311010000">71490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150015559_629889227">
+            <model>Духовой шкаф Rebus CV7007BL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">116390</cityprice>
+                <cityprice cityId="511010000">116390</cityprice>
+                <cityprice cityId="515230100">116390</cityprice>
+                <cityprice cityId="311010000">116390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133052702_076608754">
+            <model>Вытяжка Rebus RID-6097DISS серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">70890</cityprice>
+                <cityprice cityId="515230100">70890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133431963_307516960">
+            <model>Микроволновая печь Rebus R23IND950S серебристый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="12.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">42290</cityprice>
+                <cityprice cityId="311010000">42290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131788313_394145635">
+            <model>Пылесос Rebus RV-9555 красный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="19.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="130.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="130.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="21.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33190</cityprice>
+                <cityprice cityId="511010000">33190</cityprice>
+                <cityprice cityId="515230100">33190</cityprice>
+                <cityprice cityId="311010000">33190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147292898_986799217">
+            <model>Настольная электропечь IDEAL 5003 черный</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="21.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">51390</cityprice>
+                <cityprice cityId="515230100">51390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117719204_588506316">
+            <model>Bella Mebel Debora односпальная, 90x200 см, без подъёмного механизма, серый, коричневый</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="8.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="311010000">55890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="171606301_897783350">
+            <model>Морозильник Platinium PLMF-320 251 л белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">120290</cityprice>
+                <cityprice cityId="515230100">120290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="167273196_774718352">
+            <model>Холодильник Platinium LX-850 голубой</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="40.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="40.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">324990</cityprice>
+                <cityprice cityId="511010000">324990</cityprice>
+                <cityprice cityId="515230100">324990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="154946612_675696566">
+            <model>Портативная колонка DBL DJ-3120 черный</model>
+            <brand>dbl</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">82490</cityprice>
+                <cityprice cityId="511010000">82490</cityprice>
+                <cityprice cityId="515230100">82490</cityprice>
+                <cityprice cityId="311010000">82490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148647693_698838353">
+            <model>Crossleader DW02 215/55 R17 94 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="81.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="81.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">26690</cityprice>
+                <cityprice cityId="515230100">26690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173869436_489885432">
+            <model>Холодильная витрина Platinium LX620FC черно-красный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="95.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="95.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">175490</cityprice>
+                <cityprice cityId="515230100">175490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="153476359_779373651">
+            <model>Морозильник Platinium PLM-350W 300 л белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="33.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">136490</cityprice>
+                <cityprice cityId="515230100">136490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="766546186">
+            <model>Матрас Bella Mebel LILIANA, 90x200x25 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">74090</cityprice>
+                <cityprice cityId="515230100">74090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="108406862_924659757">
+            <model>Матрас Bella Siesta , 160x200x14 см</model>
+            <brand>bella-krasota</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="12.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">80590</cityprice>
+                <cityprice cityId="511010000">80590</cityprice>
+                <cityprice cityId="515230100">80590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173104825_897726017">
+            <model>Холодильная витрина Platinium PLDE1850FC белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">454990</cityprice>
+                <cityprice cityId="515230100">454990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="208577669">
+            <model>Матрас Bella Mebel ZARA, 90x200x18 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37690</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132844831_006710049">
+            <model>Холодильник Rebus RFAU-550BLNFO черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="26.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="26.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">266490</cityprice>
+                <cityprice cityId="511010000">266490</cityprice>
+                <cityprice cityId="515230100">266490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150015596_020203953">
+            <model>Духовой шкаф Platinium PLM-EM4002BL черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">96890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="152186875_208235973">
+            <model>Кухонная плита KLASS T9512B6-0003 белый</model>
+            <brand>klass-2</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="20.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="20.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">266490</cityprice>
+                <cityprice cityId="511010000">266490</cityprice>
+                <cityprice cityId="515230100">266490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="6301453_781381029">
+            <model>Электрочайник Aston KE-1518 T черный</model>
+            <brand>aston</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="35.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">5190</cityprice>
+                <cityprice cityId="511010000">5190</cityprice>
+                <cityprice cityId="515230100">5190</cityprice>
+                <cityprice cityId="311010000">5190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="134218257_012230207">
+            <model>Вытяжка Rebus RID-TR-655BL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">68290</cityprice>
+                <cityprice cityId="515230100">68290</cityprice>
+                <cityprice cityId="311010000">68290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148647019_876748396">
+            <model>Crossleader DW02 225/45 R17 90 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="209.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="209.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25390</cityprice>
+                <cityprice cityId="511010000">25390</cityprice>
+                <cityprice cityId="515230100">25390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118349813_556844658">
+            <model>Матрас Bella Mebel SILVER, 180x200x26 см, чехол трикотаж</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">94890</cityprice>
+                <cityprice cityId="515230100">94890</cityprice>
+                <cityprice cityId="311010000">94890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="162728408_577216764">
+            <model>Морозильник Rebus RIF-215W 215 л белый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">83890</cityprice>
+                <cityprice cityId="515230100">83890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137092072_657846252">
+            <model>FRICO TIRES E Touring1 195/60 R15 88 H</model>
+            <brand>frico-tires</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="17.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="210.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="210.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="13.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">21490</cityprice>
+                <cityprice cityId="511010000">21490</cityprice>
+                <cityprice cityId="515230100">21490</cityprice>
+                <cityprice cityId="311010000">21490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150628667_497473687">
+            <model>Crossleader DW02 195/65 R15 91 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="24.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="24.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">22090</cityprice>
+                <cityprice cityId="515230100">22090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="898652289">
+            <model>Матрас Bella Mebel FRESH, 90x200x22 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="45.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="45.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="7.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">44890</cityprice>
+                <cityprice cityId="511010000">44890</cityprice>
+                <cityprice cityId="515230100">44890</cityprice>
+                <cityprice cityId="311010000">44890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156862710_145754240">
+            <model>Морозильник Platinium PLM-820S 820 л серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="25.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="25.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">331490</cityprice>
+                <cityprice cityId="511010000">331490</cityprice>
+                <cityprice cityId="515230100">331490</cityprice>
+                <cityprice cityId="311010000">331490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="162392253_699591743">
+            <model>Морозильник Platinium PLM-450S 400 л серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="17.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="23.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="23.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="6.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">201490</cityprice>
+                <cityprice cityId="511010000">201490</cityprice>
+                <cityprice cityId="515230100">201490</cityprice>
+                <cityprice cityId="311010000">201490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="954844191">
+            <model>Матрас Bella Mebel DIAMOND, 180x200x20 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="25.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="25.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="15.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">58490</cityprice>
+                <cityprice cityId="511010000">58490</cityprice>
+                <cityprice cityId="515230100">58490</cityprice>
+                <cityprice cityId="311010000">58490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148786732_561769969">
+            <model>Cross Leader DW02 215/60 R16 95 T без шипов</model>
+            <brand>cross-leader</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="100.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="100.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">25390</cityprice>
+                <cityprice cityId="511010000">25390</cityprice>
+                <cityprice cityId="515230100">25390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139765057_092559625">
+            <model>Матрас Diamond Prestig, 180x200x22 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">83190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156540226_031977003">
+            <model>Духовой шкаф Premier PRM-4005SS серый</model>
+            <brand>premier</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">105990</cityprice>
+                <cityprice cityId="515230100">105990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138727451_257275140">
+            <model>Холодильная витрина PLATINIUM PLSC-660S черный</model>
+            <brand />
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="57.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="57.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">266490</cityprice>
+                <cityprice cityId="511010000">266490</cityprice>
+                <cityprice cityId="515230100">266490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150060707_542845037">
+            <model>Духовой шкаф Rebus CV4005BL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="37.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="37.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">103390</cityprice>
+                <cityprice cityId="511010000">103390</cityprice>
+                <cityprice cityId="515230100">103390</cityprice>
+                <cityprice cityId="311010000">103390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122799225_548603391">
+            <model>Стиральная машина IDEAL ID-75 7.5 кг белый</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114861770_085955628">
+            <model>Vesta V9C2000 красный</model>
+            <brand>vesta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">31890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="163412418_907992653">
+            <model>Настольная электропечь IDEAL LUX 4510 красный</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="15.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">35790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="377869050">
+            <model>Матрас Bella Mebel LILIANA, 160x200x25 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113090</cityprice>
+                <cityprice cityId="511010000">113090</cityprice>
+                <cityprice cityId="515230100">113090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="170941491_775496858">
+            <model>Холодильник Platinium PLNF1875AC черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">513490</cityprice>
+                <cityprice cityId="515230100">513490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132567671_879257327">
+            <model>Газовая варочная поверхность Rebus Rebus RBGb46052 черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">60490</cityprice>
+                <cityprice cityId="515230100">60490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132150814_393164330">
+            <model>Rebus RFAU-600DGNFO серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="11.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">331490</cityprice>
+                <cityprice cityId="511010000">331490</cityprice>
+                <cityprice cityId="515230100">331490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="101217277_637841762">
+            <model>Bella Mebel LILIANA 180х200</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="21.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126090</cityprice>
+                <cityprice cityId="511010000">126090</cityprice>
+                <cityprice cityId="515230100">126090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139174188_197331748">
+            <model>Platinium PLM-18HRND белый + монтажный комплект</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">201490</cityprice>
+                <cityprice cityId="515230100">201490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="154945361_649434957">
+            <model>Портативная колонка DBL DJ-3122 черный</model>
+            <brand>dbl</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="72.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="72.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99909</cityprice>
+                <cityprice cityId="511010000">99909</cityprice>
+                <cityprice cityId="515230100">99909</cityprice>
+                <cityprice cityId="311010000">99909</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="155411718_149085043">
+            <model>Матрас Bella Mebel FRESH LUX, 90x200x26 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54590</cityprice>
+                <cityprice cityId="311010000">54590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="165523038_199285855">
+            <model>Platinium PLM-24INVER ARCTIC белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="24.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="24.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">318490</cityprice>
+                <cityprice cityId="515230100">318490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133152370_244933192">
+            <model>Вытяжка Rebus RID-TR-955BL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">70890</cityprice>
+                <cityprice cityId="515230100">70890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="166707807_339572135">
+            <model>Холодильник Platinium LX-330 голубой</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">155990</cityprice>
+                <cityprice cityId="515230100">155990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="134589745_841044035">
+            <model>Rebus Rebus RfAU-600BLNFO черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">331490</cityprice>
+                <cityprice cityId="511010000">331490</cityprice>
+                <cityprice cityId="515230100">331490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="167109327_946657823">
+            <model>Холодильник Platinium PLNF-750H черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="33.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">292490</cityprice>
+                <cityprice cityId="511010000">292490</cityprice>
+                <cityprice cityId="515230100">292490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="152624976_966194378">
+            <model>Водонагреватель проточный Platinium PLM-25GWH белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">48790</cityprice>
+                <cityprice cityId="515230100">48790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156540224_608978430">
+            <model>Духовой шкаф IDEAL ID-4002SS серый</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="47.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="47.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">94290</cityprice>
+                <cityprice cityId="515230100">94290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133431957_378462970">
+            <model>Микроволновая печь Rebus R23IND950BL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="25.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="7.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">38390</cityprice>
+                <cityprice cityId="311010000">38390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173140655_777224625">
+            <model>Холодильная витрина Rebus RS-620 черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="16.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">162490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="171404580_396385163">
+            <model>Холодильник Platinium PLDE1250FC белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="48.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="48.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">324990</cityprice>
+                <cityprice cityId="515230100">324990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137092075_514277661">
+            <model>FRICO TIRES E Touring1 205/55 R16 91 V</model>
+            <brand>frico-tires</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="590.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="590.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="10.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">24090</cityprice>
+                <cityprice cityId="515230100">24090</cityprice>
+                <cityprice cityId="311010000">24090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="2800096_488384115">
+            <model>Pozis FH-250 346 л белый</model>
+            <brand>pozis</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">277590</cityprice>
+                <cityprice cityId="515230100">277590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100730731_171241720">
+            <model>Матрас Bella Mebel Zara , 180x200x19 см, чехол жаккард</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">67590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150914141_212866014">
+            <model>Варочная поверхность Rebus RBG5808 серебристый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70890</cityprice>
+                <cityprice cityId="511010000">70890</cityprice>
+                <cityprice cityId="515230100">70890</cityprice>
+                <cityprice cityId="311010000">70890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156540221_967643930">
+            <model>Духовой шкаф Premier PRM-7007SS серый</model>
+            <brand>premier</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="37.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="37.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">120290</cityprice>
+                <cityprice cityId="515230100">120290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137092061_845718310">
+            <model>FRICO TIRES E Touring1 215/60 R16 95 V</model>
+            <brand>frico-tires</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="467.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="467.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">28590</cityprice>
+                <cityprice cityId="511010000">28590</cityprice>
+                <cityprice cityId="515230100">28590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132379384_350393422">
+            <model>Газовая варочная поверхность Rebus RBGb5820D черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">81290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140115754_772979515">
+            <model>Rebus SIBERIA INVERTER RS-18HRNDI белый + монтажный комплект</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">253490</cityprice>
+                <cityprice cityId="515230100">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150633856_603871903">
+            <model>Crossleader DW02 225/55 R19 99 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">38390</cityprice>
+                <cityprice cityId="515230100">38390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="170941607_180198992">
+            <model>Холодильник Platinium PLNF675AC черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="25.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="111.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="111.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">253490</cityprice>
+                <cityprice cityId="511010000">253490</cityprice>
+                <cityprice cityId="515230100">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131788300_315320762">
+            <model>Пылесос Rebus RV-9255 черный, золотистый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">35790</cityprice>
+                <cityprice cityId="515230100">35790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131928686_617613850">
+            <model>Водонагреватель накопительный Platinium P15-S20DIS 15 л белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="76.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="76.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">42290</cityprice>
+                <cityprice cityId="515230100">42290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115021337_359327393">
+            <model>Матрас Bella Silver, 160x200x26 см, чехол трикот</model>
+            <brand>bella-krasota</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="27.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="27.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">84490</cityprice>
+                <cityprice cityId="511010000">84490</cityprice>
+                <cityprice cityId="515230100">84490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173965478_496779332">
+            <model>Кухонная плита Platinium PLMHB-9003 серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="37.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="37.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">214490</cityprice>
+                <cityprice cityId="511010000">214490</cityprice>
+                <cityprice cityId="515230100">214490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132401720_656361907">
+            <model>Газовая варочная поверхность Rebus RBG4513 серебристый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">48790</cityprice>
+                <cityprice cityId="511010000">48790</cityprice>
+                <cityprice cityId="515230100">48790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="176880156_007712653">
+            <model>Кухонная плита KLASS T6402B6-0001 белый</model>
+            <brand>KLASS</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="92.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="92.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">149490</cityprice>
+                <cityprice cityId="511010000">149490</cityprice>
+                <cityprice cityId="515230100">149490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140504865_901245146">
+            <model>Матрас Diamond PRESTIG, 160x200x22 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">75390</cityprice>
+                <cityprice cityId="311010000">75390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173263362_513660703">
+            <model>Морозильник Platinium PLHL-300S 268 л серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="87.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="87.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">168990</cityprice>
+                <cityprice cityId="511010000">168990</cityprice>
+                <cityprice cityId="515230100">168990</cityprice>
+                <cityprice cityId="311010000">168990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118571494_973306133">
+            <model>Матрас Bella Mebel BONUM LUX, 160x200x26 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">120890</cityprice>
+                <cityprice cityId="511010000">120890</cityprice>
+                <cityprice cityId="515230100">120890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173104746_183410051">
+            <model>Холодильная витрина Platinium LX-350 черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="6.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">168990</cityprice>
+                <cityprice cityId="515230100">168990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="171496938_581763589">
+            <model>Холодильник Platinium PLDE 650FC белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="75.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="75.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">194990</cityprice>
+                <cityprice cityId="515230100">194990</cityprice>
+                <cityprice cityId="311010000">194990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="152421779_687388838">
+            <model>Варочная поверхность Platinium PLG-6002B черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">46190</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="149703110_387002206">
+            <model>Духовой шкаф Platinium PLM-EM4002S серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="41.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="41.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">99490</cityprice>
+                <cityprice cityId="511010000">99490</cityprice>
+                <cityprice cityId="515230100">99490</cityprice>
+                <cityprice cityId="311010000">99490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138727712_174746602">
+            <model>Холодильная витрина PLATINIUM PLSC-550S черный</model>
+            <brand>platinum</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="80.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="80.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">253490</cityprice>
+                <cityprice cityId="511010000">253490</cityprice>
+                <cityprice cityId="515230100">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173965463_307374032">
+            <model>Кухонная плита Platinium PLMHB-9003 черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="33.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">207990</cityprice>
+                <cityprice cityId="511010000">207990</cityprice>
+                <cityprice cityId="515230100">207990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133052683_065931399">
+            <model>Вытяжка Rebus RID-TR-650BL черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="32.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="32.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">57890</cityprice>
+                <cityprice cityId="515230100">57890</cityprice>
+                <cityprice cityId="311010000">57890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140493883_270477670">
+            <model>Матрас Diamond Diamond, 160x200x18 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="13.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">54590</cityprice>
+                <cityprice cityId="511010000">54590</cityprice>
+                <cityprice cityId="515230100">54590</cityprice>
+                <cityprice cityId="311010000">54590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118349847_482591793">
+            <model>Матрас Bella Mebel ANTI, 180x200x20 см, чехол вискоза</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">87090</cityprice>
+                <cityprice cityId="515230100">87090</cityprice>
+                <cityprice cityId="311010000">87090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="172781303_994124597">
+            <model>Холодильник Platinium LX1220FC черно-красный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="43.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="43.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">298990</cityprice>
+                <cityprice cityId="515230100">298990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="171606302_851187922">
+            <model>Морозильник Platinium PLMF-420 299 л белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">142390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132567673_140076220">
+            <model>Варочная поверхность Platinium Варочная поверхность Platinium PLG 4513 серебристый серебристый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="18.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">37090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="167352160_667859494">
+            <model>Холодильник Platinium LX-1050 голубой</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="36.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="36.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">454990</cityprice>
+                <cityprice cityId="515230100">454990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148646136_613512931">
+            <model>Crossleader DW02 205/55 R16 91 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="184.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="184.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">22790</cityprice>
+                <cityprice cityId="511010000">22790</cityprice>
+                <cityprice cityId="515230100">22790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="113338358_959957561">
+            <model>IDEAL VC-2000 синий</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="311010000">37090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="163132150">
+            <model>Bella Mebel AMALFI 6D, предметов в наборе 5 шт однотонный</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">480990</cityprice>
+                <cityprice cityId="311010000">480990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132379398_807604788">
+            <model>Газовая варочная поверхность Rebus RBG4501 серебристый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">47490</cityprice>
+                <cityprice cityId="515230100">47490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="173294621_071950998">
+            <model>Холодильная витрина Rebus RS 1220 черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="49.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="49.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">324990</cityprice>
+                <cityprice cityId="511010000">324990</cityprice>
+                <cityprice cityId="515230100">324990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="623956230">
+            <model>ТВ-тумба напольная Bella Mebel KATIA, 180x68x47 см, белый, бежевый, золотой</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="20.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="20.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">123490</cityprice>
+                <cityprice cityId="515230100">123490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147822247_297726285">
+            <model>Электрическая варочная поверхность Rebus Rebus RBE-TIC401 elektr черный</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="37.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="37.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">60490</cityprice>
+                <cityprice cityId="511010000">60490</cityprice>
+                <cityprice cityId="515230100">60490</cityprice>
+                <cityprice cityId="311010000">60490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="162936261_609274404">
+            <model>Кровать Bella Mebel DEBORА односпальная, 90x200 см (с матрасом, без подъёмного механизма) серый, коричневый</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="8.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="311010000">119990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137250389_472229100">
+            <model>FRICO TIRES E Touring 1 175/70 R13 66 T</model>
+            <brand>frico-tires</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">17590</cityprice>
+                <cityprice cityId="515230100">17590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140115757_640133076">
+            <model>Rebus SIBERIA INVERTER RS-24HRNDI белый + монтажный комплект</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">318490</cityprice>
+                <cityprice cityId="515230100">318490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133152432_111936117">
+            <model>Rebus RID-TR-675S серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="18.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="18.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">70890</cityprice>
+                <cityprice cityId="515230100">70890</cityprice>
+                <cityprice cityId="311010000">70890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="152421796_767437054">
+            <model>Комбинированная варочная поверхность Platinium PLG-6002 серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">40990</cityprice>
+                <cityprice cityId="511010000">40990</cityprice>
+                <cityprice cityId="515230100">40990</cityprice>
+                <cityprice cityId="311010000">40990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="303011182">
+            <model>Матрас Diamond LOTUS, 180x200x20 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="10.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">68890</cityprice>
+                <cityprice cityId="511010000">68890</cityprice>
+                <cityprice cityId="515230100">68890</cityprice>
+                <cityprice cityId="311010000">68890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="152421742_772491842">
+            <model>Газовая варочная поверхность Platinium PLG-5820B черный</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">64390</cityprice>
+                <cityprice cityId="511010000">64390</cityprice>
+                <cityprice cityId="515230100">64390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="324611078">
+            <model>Матрас Bella Mebel LILIANA, 180x200x25 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="21.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">126090</cityprice>
+                <cityprice cityId="511010000">126090</cityprice>
+                <cityprice cityId="515230100">126090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="166707826_163769457">
+            <model>Холодильник Platinium LX-660 голубой</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">298990</cityprice>
+                <cityprice cityId="515230100">298990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="240398541">
+            <model>OCEAN ножка для дивана, для комода дерево, металл, 18 см</model>
+            <brand>ocean-tehnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="1929.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">1950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132552578_610045142">
+            <model>Газовая варочная поверхность Platinum PLG5804B черный</model>
+            <brand>Platinum</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">57890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="489286779">
+            <model>Матрас Diamond LOTUS, 120x200x20 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">50090</cityprice>
+                <cityprice cityId="515230100">50090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="112049126_341573682">
+            <model>Вентилятор Rebus MFS-18-3 серебристый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="33.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="20.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="20.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">9390</cityprice>
+                <cityprice cityId="511010000">9390</cityprice>
+                <cityprice cityId="515230100">9390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156863482_785619312">
+            <model>Морозильник Platinium PLM-1100S 1100 л серый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="14.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">500490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156540223_664113149">
+            <model>Духовой шкаф Premier PRM-4005BL черный</model>
+            <brand>premier</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="20.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="20.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">103390</cityprice>
+                <cityprice cityId="515230100">103390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="150630305_336019433">
+            <model>Crossleader DW02 255/45 R20 105 T без шипов</model>
+            <brand>crossleader</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="148.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="148.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">42290</cityprice>
+                <cityprice cityId="515230100">42290</cityprice>
+                <cityprice cityId="311010000">42290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="143255054_840969607">
+            <model>OCEAN ножка для дивана, для пуфа, для кресла металл, 18 см</model>
+            <brand>ocean-tehnika</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="39.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">1400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="144668464_405890339">
+            <model>Матрас Diamond Diamond, 90x200x18 см</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="44.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">33790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="132425045_216088855">
+            <model>Газовая варочная поверхность Rebus RBG5804 серебристый</model>
+            <brand>Rebus</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="16.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">70890</cityprice>
+                <cityprice cityId="511010000">70890</cityprice>
+                <cityprice cityId="515230100">70890</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="155411924_260329923">
+            <model>Обеденный стол Diamond Milano 2255, 140х80x75 см, искусственный мрамор, белый, коричневый</model>
+            <brand>diamond</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">123490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118602237_720768828">
+            <model>Матрас Bella Mebel Bonum Lux, 180x200x26 см</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">136490</cityprice>
+                <cityprice cityId="511010000">136490</cityprice>
+                <cityprice cityId="515230100">136490</cityprice>
+                <cityprice cityId="311010000">136490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="165022245_455331426">
+            <model>Platinium PLM-18INVER ARCTIC белый + монтажный комплект</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="97.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="97.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">253490</cityprice>
+                <cityprice cityId="515230100">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="169386252_013814797">
+            <model>Холодильник Platinium DR-390 белый</model>
+            <brand>platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="78.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="78.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">253490</cityprice>
+                <cityprice cityId="511010000">253490</cityprice>
+                <cityprice cityId="515230100">253490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137092070_587155888">
+            <model>FRICO TIRES E Touring1 195/65 R15 91 V</model>
+            <brand>frico-tires</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="298.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="298.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">22790</cityprice>
+                <cityprice cityId="515230100">22790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106949950_204947663">
+            <model>Bella Mebel Las Vegas 311 комплект (2 кресла, диван прямой) обивка микровелюр, синий</model>
+            <brand>Bella Mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">422490</cityprice>
+                <cityprice cityId="515230100">422490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="486849936">
+            <model>Bella Mebel BERAT 3+1+1 комплект (2 кресла, диван прямой) обивка ткань, бежевый</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">474490</cityprice>
+                <cityprice cityId="515230100">474490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="133152439_243715938">
+            <model>Вытяжка Rebus RID-9097DISS серый</model>
+            <brand>rebus</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">76090</cityprice>
+                <cityprice cityId="515230100">76090</cityprice>
+                <cityprice cityId="311010000">76090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="156540225_273146088">
+            <model>Духовой шкаф IDEAL ID-4002BL черный</model>
+            <brand>ideal-tekhnika</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="47.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="47.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">90390</cityprice>
+                <cityprice cityId="515230100">90390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="166498148_894580005">
+            <model>Комбинированная варочная поверхность Platinium PLG-4605 черный</model>
+            <brand>Platinium</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="20.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="55.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="55.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">43590</cityprice>
+                <cityprice cityId="511010000">43590</cityprice>
+                <cityprice cityId="515230100">43590</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100731555_081506232">
+            <model>Bella Mebel Liliana 160</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="750000000">113090</cityprice>
+                <cityprice cityId="511010000">113090</cityprice>
+                <cityprice cityId="515230100">113090</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117056938">
+            <model>Горка Bella Mebel ROSE 4D, бежевый</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">454990</cityprice>
+                <cityprice cityId="515230100">454990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="760114568">
+            <model>Горка Bella Mebel SAHARA 4D, белый, бежевый</model>
+            <brand>bella-mebel</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="511010000">454990</cityprice>
+                <cityprice cityId="515230100">454990</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
