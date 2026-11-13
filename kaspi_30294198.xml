@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-13 14:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-13 17:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -38,8 +38,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="12.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="11.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
@@ -184,7 +184,7 @@
             <model>Морозильник Platinium PLM-820S 820 л серый</model>
             <brand>platinium</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
@@ -283,11 +283,10 @@
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">54590</cityprice>
-                <cityprice cityId="311010000">54590</cityprice>
             </cityprices>
         </offer>
         <offer sku="171496938_581763589">
@@ -498,7 +497,7 @@
             <model>Духовой шкаф Rebus CV4005BL черный</model>
             <brand>rebus</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="27.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="27.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
@@ -735,8 +734,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="12.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="11.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
@@ -1097,8 +1096,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1136,13 +1135,13 @@
             <model>Матрас Diamond Prestig, 180x200x22 см</model>
             <brand>diamond</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
-                <cityprice cityId="750000000">83190</cityprice>
+                <cityprice cityId="750000000">78865</cityprice>
             </cityprices>
         </offer>
         <offer sku="147822247_297726285">
@@ -1223,8 +1222,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="23.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="56.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="56.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="52.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="52.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
@@ -1269,8 +1268,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="17.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="17.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="18.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="18.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
@@ -1398,7 +1397,7 @@
             <model>Кухонная плита Platinium PLMHB-9003 черный</model>
             <brand>platinium</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
@@ -1559,13 +1558,12 @@
             <model>Матрас Diamond Diamond, 160x200x18 см</model>
             <brand>diamond</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="49.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="49.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="10.0" />
             </availabilities>
             <cityprices>
-                <cityprice cityId="750000000">54590</cityprice>
                 <cityprice cityId="511010000">54590</cityprice>
                 <cityprice cityId="515230100">54590</cityprice>
                 <cityprice cityId="311010000">54590</cityprice>
@@ -1834,9 +1832,9 @@
             <model>IDEAL ID-75 синий</model>
             <brand>ideal-tekhnika</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="20.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="139.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="139.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="133.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="133.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1899,6 +1897,19 @@
             <cityprices>
                 <cityprice cityId="511010000">266490</cityprice>
                 <cityprice cityId="515230100">266490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114957004_562877776">
+            <model>Матрас Bella Fresh, 160x200x22 см, чехол жаккард</model>
+            <brand>bella-krasota</brand>
+            <availabilities>
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="10.0" />
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="311010000">71490</cityprice>
             </cityprices>
         </offer>
     </offers>
