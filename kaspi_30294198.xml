@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-13 17:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-14 15:11" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -352,8 +352,8 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="101.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="101.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="100.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="100.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1397,7 +1397,7 @@
             <model>Кухонная плита Platinium PLMHB-9003 черный</model>
             <brand>platinium</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
@@ -1761,14 +1761,15 @@
             <brand>diamond</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="19.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="52.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="52.0" />
-                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="42.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="42.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="6.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">33790</cityprice>
                 <cityprice cityId="511010000">33790</cityprice>
                 <cityprice cityId="515230100">33790</cityprice>
+                <cityprice cityId="311010000">33790</cityprice>
             </cityprices>
         </offer>
         <offer sku="117056938">
