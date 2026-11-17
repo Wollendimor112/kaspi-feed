@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-17 09:40" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-17 17:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -8,8 +8,8 @@
             <brand>dbl</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="63.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="63.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="61.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="61.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
@@ -38,8 +38,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
@@ -112,8 +112,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
@@ -170,8 +170,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -201,8 +201,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="17.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="17.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="16.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -338,8 +338,8 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="70.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="70.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="57.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="57.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -380,8 +380,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="24.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="24.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="23.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="23.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -395,8 +395,8 @@
             <brand>bella-krasota</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="27.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="27.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="26.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="26.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -497,7 +497,7 @@
             <model>Духовой шкаф Rebus CV4005BL черный</model>
             <brand>rebus</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="27.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="27.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
@@ -705,8 +705,8 @@
             <brand>dbl</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="27.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="27.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="22.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
             </availabilities>
             <cityprices>
@@ -734,8 +734,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
@@ -1148,7 +1148,7 @@
             <model>Электрическая варочная поверхность Rebus Rebus RBE-TIC401 elektr черный</model>
             <brand>rebus</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="16.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="15.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="37.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="37.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
@@ -1193,7 +1193,7 @@
             <model>Микроволновая печь Rebus R23IND950S серебристый</model>
             <brand>rebus</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
@@ -1206,15 +1206,15 @@
             <model>Матрас Bella Mebel Zara , 180x200x19 см, чехол жаккард</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
-                <cityprice cityId="750000000">67590</cityprice>
-                <cityprice cityId="511010000">67590</cityprice>
-                <cityprice cityId="515230100">67590</cityprice>
+                <cityprice cityId="511010000">60100</cityprice>
+                <cityprice cityId="515230100">77690</cityprice>
+                <cityprice cityId="750000000">77690</cityprice>
             </cityprices>
         </offer>
         <offer sku="954844191">
@@ -1238,13 +1238,13 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
-                <cityprice cityId="511010000">54590</cityprice>
-                <cityprice cityId="515230100">54590</cityprice>
+                <cityprice cityId="511010000">57390</cityprice>
+                <cityprice cityId="515230100">57390</cityprice>
             </cityprices>
         </offer>
         <offer sku="152421796_767437054">
@@ -1328,8 +1328,8 @@
             <brand>ideal-tekhnika</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="6.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
             </availabilities>
             <cityprices>
@@ -1410,7 +1410,7 @@
             <model>Микроволновая печь Rebus R23IND950BL черный</model>
             <brand>rebus</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="20.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
@@ -1439,13 +1439,13 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
-                <cityprice cityId="511010000">214490</cityprice>
-                <cityprice cityId="515230100">214490</cityprice>
+                <cityprice cityId="511010000">187413</cityprice>
+                <cityprice cityId="515230100">187413</cityprice>
             </cityprices>
         </offer>
         <offer sku="132425045_216088855">
@@ -1498,8 +1498,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
@@ -1528,8 +1528,8 @@
             <brand>dbl</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="13.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="13.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
@@ -1559,8 +1559,8 @@
             <brand>diamond</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="11.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="38.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="38.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="18.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="18.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="9.0" />
             </availabilities>
             <cityprices>
@@ -1589,13 +1589,13 @@
             <model>Матрас Bella Mebel ZARA, 90x200x18 см</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="8.0" />
+                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
-                <cityprice cityId="750000000">37690</cityprice>
+                <cityprice cityId="750000000">43190</cityprice>
             </cityprices>
         </offer>
         <offer sku="132379398_807604788">
@@ -1685,9 +1685,9 @@
             <brand>diamond</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="30.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="30.0" />
-                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="28.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="28.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">63690</cityprice>
@@ -1701,8 +1701,8 @@
             <brand>ideal-tekhnika</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="46.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="46.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="43.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="43.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="6.0" />
             </availabilities>
             <cityprices>
@@ -1732,8 +1732,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1747,29 +1747,31 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="41.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="41.0" />
-                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="31.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="31.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="10.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">44890</cityprice>
                 <cityprice cityId="511010000">44890</cityprice>
                 <cityprice cityId="515230100">44890</cityprice>
+                <cityprice cityId="311010000">44890</cityprice>
             </cityprices>
         </offer>
         <offer sku="144668464_405890339">
             <model>Матрас Diamond Diamond, 90x200x18 см</model>
             <brand>diamond</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="14.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="33.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="33.0" />
-                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="13.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="8.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">33790</cityprice>
                 <cityprice cityId="511010000">33790</cityprice>
                 <cityprice cityId="515230100">33790</cityprice>
+                <cityprice cityId="311010000">33790</cityprice>
             </cityprices>
         </offer>
         <offer sku="117056938">
@@ -1819,8 +1821,8 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1832,9 +1834,9 @@
             <model>IDEAL ID-75 синий</model>
             <brand>ideal-tekhnika</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="14.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="110.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="110.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="13.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="88.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="88.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1890,8 +1892,8 @@
             <brand>diamond</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="17.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="17.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
