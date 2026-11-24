@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-23 09:40" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-24 05:16" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -69,8 +69,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="12.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="12.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="11.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="11.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
             </availabilities>
             <cityprices>
@@ -591,7 +591,7 @@
             <model>Bella Mebel AMALFI 6D, предметов в наборе 5 шт однотонный</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="23.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="23.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
@@ -721,12 +721,13 @@
             <model>Bella Mebel Debora односпальная, 90x200 см, без подъёмного механизма, серый, коричневый</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
+                <cityprice cityId="750000000">55890</cityprice>
                 <cityprice cityId="511010000">55890</cityprice>
                 <cityprice cityId="515230100">55890</cityprice>
             </cityprices>
@@ -834,15 +835,16 @@
             <model>Кровать Bella Mebel DEBORА односпальная, 90x200 см (с матрасом, без подъёмного механизма) серый, коричневый</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="10.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="311010000">119990</cityprice>
                 <cityprice cityId="511010000">119990</cityprice>
                 <cityprice cityId="515230100">119990</cityprice>
+                <cityprice cityId="750000000">119990</cityprice>
             </cityprices>
         </offer>
         <offer sku="137092072_657846252">
@@ -1225,9 +1227,9 @@
             <model>Матрас Bella Mebel DIAMOND, 180x200x20 см</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="15.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="39.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="39.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="30.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="22.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1255,14 +1257,12 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">40990</cityprice>
-                <cityprice cityId="511010000">40990</cityprice>
-                <cityprice cityId="515230100">40990</cityprice>
                 <cityprice cityId="311010000">40990</cityprice>
             </cityprices>
         </offer>
@@ -1271,8 +1271,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="6.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
