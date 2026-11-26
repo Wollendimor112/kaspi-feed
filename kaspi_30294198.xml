@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-24 17:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-26 14:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -185,15 +185,14 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="9.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="10.0" />
-                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">331490</cityprice>
                 <cityprice cityId="511010000">331490</cityprice>
                 <cityprice cityId="515230100">331490</cityprice>
-                <cityprice cityId="311010000">331490</cityprice>
             </cityprices>
         </offer>
         <offer sku="134589745_841044035">
@@ -577,8 +576,8 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="24.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="106.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="106.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="105.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="105.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -592,8 +591,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="22.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="22.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="21.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -895,8 +894,8 @@
             <brand>cross-leader</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="111.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="111.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="107.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="107.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1229,8 +1228,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="27.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="5.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="5.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="13.0" />
             </availabilities>
             <cityprices>
@@ -1487,8 +1486,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="19.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="114.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="114.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="110.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="110.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="11.0" />
             </availabilities>
             <cityprices>
@@ -1564,8 +1563,8 @@
             <brand>diamond</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="7.0" />
             </availabilities>
             <cityprices>
@@ -1839,9 +1838,9 @@
             <model>IDEAL ID-75 синий</model>
             <brand>ideal-tekhnika</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="11.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="54.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="54.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="52.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="52.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="5.0" />
             </availabilities>
             <cityprices>
@@ -1897,7 +1896,7 @@
             <model>Diamond VIOLA 6D, предметов в наборе 5 шт</model>
             <brand>diamond</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
