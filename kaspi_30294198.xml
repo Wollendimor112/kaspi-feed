@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-27 10:41" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-27 15:37" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -991,8 +991,8 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="21.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="21.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="19.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="19.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1229,14 +1229,12 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="26.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="13.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">58490</cityprice>
-                <cityprice cityId="511010000">58490</cityprice>
-                <cityprice cityId="515230100">58490</cityprice>
                 <cityprice cityId="311010000">58490</cityprice>
             </cityprices>
         </offer>
@@ -1751,8 +1749,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="15.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="15.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="8.0" />
             </availabilities>
             <cityprices>
@@ -1825,8 +1823,8 @@
             <brand>platinium</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
