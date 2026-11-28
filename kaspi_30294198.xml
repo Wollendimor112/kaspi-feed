@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-27 15:37" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-11-28 14:10" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd">
     <company>30294198</company>
     <merchantid>30294198</merchantid>
     <offers>
@@ -7,7 +7,7 @@
             <model>Портативная колонка DBL DJ-3122 черный</model>
             <brand>dbl</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="6.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="5.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="61.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="61.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
@@ -722,14 +722,12 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="750000000">55890</cityprice>
-                <cityprice cityId="511010000">55890</cityprice>
-                <cityprice cityId="515230100">55890</cityprice>
                 <cityprice cityId="311010000">55890</cityprice>
             </cityprices>
         </offer>
@@ -837,9 +835,9 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="7.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="4.0" />
+                <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
+                <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="3.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="311010000">119990</cityprice>
@@ -977,8 +975,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="9.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="9.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
             </availabilities>
             <cityprices>
@@ -1228,7 +1226,7 @@
             <model>Матрас Bella Mebel DIAMOND, 180x200x20 см</model>
             <brand>bella-mebel</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="26.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="25.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="13.0" />
@@ -1485,8 +1483,8 @@
             <brand>rebus</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="19.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="110.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="110.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="109.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="109.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="11.0" />
             </availabilities>
             <cityprices>
@@ -1564,7 +1562,7 @@
                 <availability available="no" storeId="30294198_PP1" preOrder="0" stockCount="0.0" />
                 <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="7.0" />
                 <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="7.0" />
-                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="7.0" />
+                <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="6.0" />
             </availabilities>
             <cityprices>
                 <cityprice cityId="511010000">54590</cityprice>
@@ -1618,7 +1616,7 @@
             <model>Газовая варочная поверхность Platinum PLG5804B черный</model>
             <brand>Platinum</brand>
             <availabilities>
-                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="4.0" />
+                <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
                 <availability available="no" storeId="30294198_003" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0005" preOrder="0" stockCount="0.0" />
                 <availability available="no" storeId="30294198_0006" preOrder="0" stockCount="0.0" />
@@ -1749,8 +1747,8 @@
             <brand>bella-mebel</brand>
             <availabilities>
                 <availability available="yes" storeId="30294198_PP1" preOrder="0" stockCount="3.0" />
-                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="14.0" />
-                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="14.0" />
+                <availability available="yes" storeId="30294198_003" preOrder="0" stockCount="8.0" />
+                <availability available="yes" storeId="30294198_0005" preOrder="0" stockCount="8.0" />
                 <availability available="yes" storeId="30294198_0006" preOrder="0" stockCount="8.0" />
             </availabilities>
             <cityprices>
